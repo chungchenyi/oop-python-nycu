@@ -8,6 +8,7 @@ def test_fib():
     assert lec6.fib(0) == 1
     assert lec6.fib(1) == 1
     assert lec6.fib(2) == 2
+    assert lec6.fib(3) == 3
 
 # please write a test for isPalindrome function
 def test_isPalindrome():
